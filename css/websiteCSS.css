@@ -1265,7 +1265,7 @@ html.cartOrdersPagesSSL .cart-product-image img {
     max-width:100%;
     max-height:100px;
     height:auto;
-    x;
+    
 }
 html.cartOrdersPagesSSL .cart-product-options {
     font-style:italic;
@@ -3193,7 +3193,7 @@ html[dir=rtl] .previewManageButton {
     }
 }
 #top-section .home-image-bg {
-    background-image:url('../img/profile.png');
+    background-image:url('../img/profile.jpg');
     display:table-cell;
     vertical-align:middle;
     background-position:center;
